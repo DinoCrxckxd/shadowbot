@@ -2,7 +2,7 @@
    :target: https://discord.gg/Er22m7y
    :alt: Discord szerver meghívó
 
-**shadowbot**
+**ShadowBot**
 =========
 A ShadowBot hivatalos github oldala.
 
